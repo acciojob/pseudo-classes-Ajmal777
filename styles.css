@@ -1,9 +1,10 @@
 /*  your css code here. If applicable */
-body{
+:root{
 	background-color: skyblue;
 }
 p:first-child{
-	color: black;
+	background: black;
+	color: white;
 }
 p:last-child{
 	color: red;
